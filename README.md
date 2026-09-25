@@ -37,7 +37,7 @@
   <img src="https://trophy.ryglcloud.net/?username=ahrifat7&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rifat 's GitHub Trophies" />
 </p>
 </div> 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 
 # 💻 Tech Stack:
