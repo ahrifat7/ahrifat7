@@ -31,6 +31,7 @@
   <a href="https://github.com/ahrifat7">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahrifat7&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="ahrifat7's GitHub Stats" />
   </a>
+  <br>
   <img src="https://streak-stats.demolab.com/?user=ahrifat7&theme=dracula&hide_border=true&cache_seconds=86400" alt="ahrifat7's GitHub Streak" width="49%" />
 </p>
 <p align="center">
